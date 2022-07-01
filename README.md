@@ -1,4 +1,3 @@
-![image](https://user-images.githubusercontent.com/23399844/149389814-aa396d2e-c5cd-4d30-a447-9104bac6fccf.png)
 ### Hi there 👋👋👋👋
 ### 🔭 I’m currently working on some machine learning tool projects
 <!--
